@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Mohit-kumar-007<br>👀 I’m interested in making thinks real with code .<br>🌱 I’m currently learning Backend devlopment, to become a full stack developer<br>💞️ I’m looking to collaborate on open source projects<br>📫 How to reach me sciencerocks8950@gmail.com<br>⚡ Fun fact: I think i am a Genious
+👋 Hi, I’m @Mohit-kumar-007<br>👀 I’m interested in making thinks real with code .<br>🌱 I’m currently learning Backend devlopment, to become a full stack developer<br>💞️ I’m looking to collaborate on open source projects<br>📫 How to reach me sciencerocks8950@gmail.com<br>⚡ Fun fact: I think i am a genius
 
 
 ## 🌐 Socials:
